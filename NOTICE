@@ -1,0 +1,12 @@
+This application uses the following third-party open-source packages:
+
+- @titaniumnetwork-dev/ultraviolet
+  Upstream: https://github.com/titaniumnetwork-dev/ultraviolet
+  License: AGPL-3.0 (verify the exact terms for the installed release before redistribution).
+- @mercuryworkshop/epoxy-transport
+- @mercuryworkshop/bare-mux
+- wisp-server-node
+- express
+- compression
+
+Each dependency retains its own copyright and license. Consult the package metadata and upstream license files for the exact terms and required notices. Do not remove or misrepresent upstream attribution when redistributing this project.
